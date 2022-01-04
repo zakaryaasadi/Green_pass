@@ -11,7 +11,7 @@
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:scaleType="centerCrop"
-        android:src="@drawable/profile"
+        android:src="@drawable/simon"
         app:civ_border_color="#FFF"
         app:civ_border_width="4dp" />
 
@@ -24,7 +24,7 @@
         android:ellipsize="end"
         android:gravity="center"
         android:maxLines="2"
-        android:text="MOUSTAFA ABDULLAH MOUSATTAT"
+        android:text="SIMON ALSHABATLY"
         android:textColor="#fff"
         android:textSize="21sp" />
 
@@ -37,7 +37,7 @@
         android:lines="1"
         android:paddingTop="6dp"
         android:paddingBottom="6dp"
-        android:text="EID: 784-1986-*******-5 . PPPN: N01200****"
+        android:text="EID: 784-1982-*******-5 . PPPN: N01200****"
         android:textColor="#fff"
         android:textDirection="ltr"
         android:textSize="16dp" />
@@ -64,7 +64,7 @@
         android:layout_marginBottom="1dp"
         android:gravity="center_horizontal"
         android:lines="1"
-        android:text="Covid-19 Vaccinated - 30 Nov 2012"
+        android:text="Covid-19 Vaccinated - 15 Apr 2021"
         android:textColor="#e9d792"
         android:textSize="16dp" />
 
